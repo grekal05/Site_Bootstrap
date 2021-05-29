@@ -1,0 +1,27 @@
+ .body{
+
+    font: 20px "Rawline,-apple-system,BlinkMacSystemFont";
+  
+ }
+ 
+ 
+ .navbar{
+     background-color:#ee7b24;
+ }
+
+ .quem-somos{
+
+    background-color:#833913;
+    color: aliceblue;
+ }
+ .margin {
+     padding-top: 10px;
+     padding-bottom: 50px;
+ }
+ .parceiros{
+     background-color:#D27D2D	;
+ }
+ .bg-footer{
+     background-color: black;
+     color: chartreuse;
+ }
