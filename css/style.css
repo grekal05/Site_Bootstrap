@@ -6,12 +6,13 @@
  
  
  .navbar{
-     background-color:#800020	;
+     background-color:#ee7b24;
+     color: white;
  }
 
  .quem-somos{
 
-    background-color:#C70039;
+    background-color:#421142;
     color: aliceblue;
  }
  .margin {
@@ -19,9 +20,10 @@
      padding-bottom: 30px;
  }
  .parceiros{
-     background-color:#900C3F	;
+     background-color:#bbb7b2	;
+     text-align: center;
  }
  .bg-footer{
-     background-color: #581845;
-     color: chartreuse;
+     background-color: #110211;
+     color:#ee7b24;
  }
